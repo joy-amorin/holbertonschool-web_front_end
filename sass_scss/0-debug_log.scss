@@ -1,0 +1,5 @@
+/*prints Hello world in the debug output*/
+
+$message: "Hello world";
+
+@debug $message;
