@@ -1,10 +1,9 @@
 /*Extended*/
-
-.info{
+.info {
     font-size: 12px;
 }
 
-.success{
+.success {
     @extend .info;
     color: #00FF00;
 }
